@@ -1,0 +1,15 @@
+#variables
+var=" "
+#Types of variables
+#string
+name="Eman"
+#int
+age=15
+#float
+result=95.86
+#boolean
+remarks=True
+print(type(name))
+print(type(age))
+print(type(result))
+print(type(remarks))
