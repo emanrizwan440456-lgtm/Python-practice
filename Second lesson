@@ -1,0 +1,17 @@
+#Arithmetic operations
+#Addition
+print("Sum of 7 and 3 is", 7+3 )
+#Subtraction
+print("Difference between 10 and 5 is", 10-5 )
+#Multiplication
+print("Answer to the multiplication of 5 and 3 is", 5*3")
+#Division
+print("Answer to the division of 9 and 3 is", 9/3 )
+#Floor Division
+print("7 floor divided by 3 is", 7//3 )
+#or
+print("10 floor divided by 5 is", 10//5 )
+#Exponent
+print("5 to the power of 3 is", 5**3 )
+#Modulus
+print("The remainder of 7 and 3 is", 7%3 )
