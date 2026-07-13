@@ -1,0 +1,7 @@
+print("Hello!")
+name="Eman Rizwan"
+country="Pakistan"
+subject="Computer Science"
+print("My name is ", name)
+print("I live in ", country)
+print("I love studying", subject)
