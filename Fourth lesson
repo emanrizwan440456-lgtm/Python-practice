@@ -1,0 +1,10 @@
+#input function
+#string
+name=input("Enter your name:")
+print(name)
+#integers
+age=int(input("Enter your age:"))
+print(age)
+#float
+price=float(input("Enter the exact price of item:"))
+print(price)
